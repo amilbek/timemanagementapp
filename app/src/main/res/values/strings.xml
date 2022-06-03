@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Time Management App</string>
+    <string name="enter_start_date">Enter Start Date</string>
+    <string name="enter_end_date">Enter End Date</string>
+    <string name="time_manage_app">Time Management App</string>
+    <string name="hours_number">Number of hours: </string>
+    <string name="sleeping">\tHow many hours\n you sleep per day?\n\t\t\t\tJust Click</string>
+    <string name="routine_work">Routine\nworks</string>
+    <string name="personal_growth">Personal\ngrowth</string>
+    <string name="monday">\tMonday</string>
+    <string name="tuesday">\tTuesday</string>
+    <string name="wednesday">\tWednesday</string>
+    <string name="thursday">\tThursday</string>
+    <string name="friday">\tFriday</string>
+    <string name="saturday">\tSaturday</string>
+    <string name="sunday">\tSunday</string>
+    <string name="enter">Enter</string>
+</resources>
